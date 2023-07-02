@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+<!--
 <a href="https://github.com/ciciswann/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeongwoongc&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/cccswann/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwoongc&layout=compact&theme=tokyonight&hide=scss" />
 </a>
 
-<!--
 **jeongwoongc/jeongwoongc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
